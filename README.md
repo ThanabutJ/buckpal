@@ -1,2 +1,2 @@
-# buckpal
-Following the course "hexagonal-architecture-web-apps" example but in golang
+# gobuckpal
+Following the "hexagonal-architecture-web-apps" course on educative example but in golang
